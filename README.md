@@ -48,3 +48,5 @@ Todas as senhas são armazenadas com hash seguro.
 As páginas são protegidas por sessão para evitar acesso não autorizado.
 
 O projeto foi feito para fins de aprendizado e pode ser expandido facilmente.
+*Att*
+Implementação de medidas de segurança no versionamento de código
